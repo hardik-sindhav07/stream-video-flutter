@@ -14,7 +14,7 @@ dependencies:
   async: ^2.11.0
   battery_plus: ^6.2.0
   collection: ^1.18.0
-  connectivity_plus: ^6.0.4
+  connectivity_plus: ">=4.0.2 <6.0.0"
   dart_webrtc: ^1.4.9
   device_info_plus: ^10.1.2
   equatable: ^2.0.5
